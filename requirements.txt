@@ -1,4 +1,4 @@
 # Hafiz
-streamlit
+streamlit>=1.40
 pdfplumber
 requests
