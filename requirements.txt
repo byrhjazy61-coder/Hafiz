@@ -1,1 +1,4 @@
 # Hafiz
+streamlit
+pdfplumber
+requests
